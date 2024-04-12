@@ -61,6 +61,7 @@ public class LinkedLDemo1 {
         l2.add(100);
         l2.add(500);
         l2.add(1000);
+        l2.add(50000);
         l2.add(null); // allow null values
         l2.add(500); // allow duplicates
 
